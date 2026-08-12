@@ -108,4 +108,4 @@ sqlite3 biblioteca.db < queries.sql
 
 ## Autor
 
-Gustavo — estudante de ADS, em busca de estágio em TI.
+Gustavo — estudante de ADS.
